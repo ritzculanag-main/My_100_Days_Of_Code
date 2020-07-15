@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f1f1f1;
+    color: #111111;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    margin: 13rem;
+    max-width: 100%;
+    max-height: 100%;
+    line-height: 100px;
+}
+
+.column-one {
+    margin: 400px 20px 100px 50px;
+    border: 1px solid #1f1f1f;
+    max-width: 320px;
+    padding: 20px;
+    line-height: 24px;
+    border-radius: 23px;
+    vertical-align: middle;
+}
+
+.column-one img {
+    max-width: 310px;
+    height: auto;
+    padding-top: 30px;
+}
+
